@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primary">#4B9EFF</color>
+    <color name="primary_variant">#7B6EF6</color>
+    <color name="primary_dark">#050B2E</color>
+    <color name="primary_light">#E6F0FF</color>
+
+    <!-- Background colors -->
+    <color name="background">#050B2E</color>
+    <color name="surface">#0A1445</color>
+    <color name="card_background">#0F1C5C</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_tertiary">#66FFFFFF</color>
+
+    <!-- Accent colors -->
+    <color name="accent_green">#00C087</color>
+    <color name="accent_red">#FF3B3B</color>
+
+    <!-- Status colors -->
+    <color name="success">#00C087</color>
+    <color name="error">#FF3B3B</color>
+    <color name="warning">#FFB800</color>
+    <color name="google_blue">#4285F4</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="dark_gray">#757575</color>
+    <color name="positive_green">#4CAF50</color>
+    <color name="negative_red">#F44336</color>
+
+    <!-- Divider -->
+    <color name="divider">#1AFFFFFF</color>
+
+    <!-- System colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

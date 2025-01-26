@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.tradeswift.main.fragments.HomeFragment"
+        android:label="Home" >
+        <action
+            android:id="@+id/action_homeFragment_to_chartFragment"
+            app:destination="@id/chartFragment"
+            />
+    </fragment>
+
+    <fragment
+        android:id="@+id/tradeFragment"
+        android:name="com.example.tradeswift.main.fragments.TradeFragment"
+        android:label="Trade" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.tradeswift.main.fragments.ProfileFragment"
+        android:label="Profile" />
+    <fragment
+        android:id="@+id/portfolioFragment"
+        android:name="com.example.tradeswift.main.fragments.PortfolioFragment"
+        android:label="PortfolioFragment" />
+    <fragment
+        android:id="@+id/chartFragment"
+        android:name="com.example.tradeswift.main.fragments.ChartFragment"
+        android:label="fragment_chart"
+        tools:layout="@layout/fragment_chart" />
+
+</navigation> 

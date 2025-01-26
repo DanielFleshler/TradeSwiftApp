@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724178250372",
+    "project_id": "tradeswiftapp-5ba4f",
+    "storage_bucket": "tradeswiftapp-5ba4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724178250372:android:d30cad0f44ff442444f0d1",
+        "android_client_info": {
+          "package_name": "com.example.tradeswift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuwt597DUrzjxilfrMTgYvyzz3h2Hcgc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
