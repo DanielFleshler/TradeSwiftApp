@@ -13,12 +13,16 @@ TradeSwift is a modern Android stock trading application that provides real-time
 ## Screenshots
 
 
-<img width="373" alt="Screenshot 2025-01-26 at 23 34 26" src="https://github.com/user-attachments/assets/b8932062-70fb-4909-86eb-97e64ff8c0c1" />
-<img width="373" alt="Screenshot 2025-01-26 at 23 34 33" src="https://github.com/user-attachments/assets/0848a013-61e1-4755-997b-be1e754a310e" />
-<img width="384" alt="Screenshot 2025-01-26 at 23 35 59" src="https://github.com/user-attachments/assets/49480fa0-ef7c-46ea-8860-ab5bea8bc273" />
-<img width="384" alt="Screenshot 2025-01-26 at 23 35 52" src="https://github.com/user-attachments/assets/196dfecf-dcc0-4d55-a40b-413790a53233" />
-<img width="385" alt="Screenshot 2025-01-26 at 23 35 45" src="https://github.com/user-attachments/assets/881ca1ae-fdb8-4b44-b849-1febddb05055" />
-<img width="384" alt="Screenshot 2025-01-26 at 23 35 37" src="https://github.com/user-attachments/assets/53166668-8632-4784-bccb-0e9aaffaed9f" />
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/b8932062-70fb-4909-86eb-97e64ff8c0c1" alt="Screenshot 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/0848a013-61e1-4755-997b-be1e754a310e" alt="Screenshot 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/49480fa0-ef7c-46ea-8860-ab5bea8bc273" alt="Screenshot 3" width="200" />
+  <img src="https://github.com/user-attachments/assets/196dfecf-dcc0-4d55-a40b-413790a53233" alt="Screenshot 4" width="200" />
+  <img src="https://github.com/user-attachments/assets/881ca1ae-fdb8-4b44-b849-1febddb05055" alt="Screenshot 5" width="200" />
+  <img src="https://github.com/user-attachments/assets/53166668-8632-4784-bccb-0e9aaffaed9f" alt="Screenshot 6" width="200" />
+</div>
+
 
 
 ## Technical Details
