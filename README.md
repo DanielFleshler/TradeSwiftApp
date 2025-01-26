@@ -9,6 +9,8 @@ TradeSwift is a modern Android stock trading application that provides real-time
 - **Account Management**: Personal account dashboard with balance tracking
 - **Stock Portfolio**: Track and manage your stock investments
 - **Price Monitoring**: Real-time price updates with positive/negative change indicators
+  
+## Screenshots
 
 ## Technical Details
 
@@ -50,21 +52,3 @@ TradeSwift is a modern Android stock trading application that provides real-time
 - User profile management
 - Account balance tracking
 - Email-based authentication
-
-## Project Structure 
-app/
-├── src/
-│ ├── main/
-│ │ ├── java/com/example/tradeswift/
-│ │ │ ├── main/
-│ │ │ │ ├── fragments/
-│ │ │ │ │ └── ChartFragment.java
-│ │ │ │ └── models/
-│ │ │ │ ├── Stock.java
-│ │ │ │ └── User.java
-│ │ │ └── MainActivity.java
-│ │ └── res/
-│ │ └── layout/
-│ │ └── activity_main.xml
-│ └── androidTest/
-└── build.gradle
