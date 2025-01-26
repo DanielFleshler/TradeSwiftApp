@@ -52,3 +52,19 @@ TradeSwift is a modern Android stock trading application that provides real-time
 - Email-based authentication
 
 ## Project Structure 
+app/
+├── src/
+│ ├── main/
+│ │ ├── java/com/example/tradeswift/
+│ │ │ ├── main/
+│ │ │ │ ├── fragments/
+│ │ │ │ │ └── ChartFragment.java
+│ │ │ │ └── models/
+│ │ │ │ ├── Stock.java
+│ │ │ │ └── User.java
+│ │ │ └── MainActivity.java
+│ │ └── res/
+│ │ └── layout/
+│ │ └── activity_main.xml
+│ └── androidTest/
+└── build.gradle
