@@ -1,24 +1,54 @@
 # TradeSwift
 
-TradeSwift is an Android application that provides real-time stock data, interactive charts, and portfolio tracking features. It empowers users to make informed investment decisions and manage their investments efficiently.
+TradeSwift is a modern Android stock trading application that provides real-time stock market data visualization and trading capabilities.
 
 ## Features
 
-* Real-time stock quotes and market data
-* Interactive charts with technical indicators
-* Portfolio tracking and performance analysis
-* Watchlist for monitoring favorite stocks
-* News and insights on market trends
-* Secure user authentication and data protection
+- **Real-time Stock Charts**: Interactive line charts showing stock price movements throughout the trading day
+- **User Authentication**: Secure user authentication system using Firebase Auth
+- **Account Management**: Personal account dashboard with balance tracking
+- **Stock Portfolio**: Track and manage your stock investments
+- **Price Monitoring**: Real-time price updates with positive/negative change indicators
 
-## Screenshots
+## Technical Details
 
-(Include screenshots of your app here)
+### Architecture & Components
 
-## Getting Started
+- **Platform**: Android (Java)
+- **Minimum SDK**: 21 (Android 5.0)
+- **Target SDK**: Latest
+- **Build System**: Gradle 8.7.2
 
-1. Clone the repository: `git clone https://github.com/your-username/TradeSwift.git`
-2. Open the project in Android Studio.
-3. Build and run the app on an emulator or physical device.
+### Dependencies
 
-## Dependencies
+- **UI Components**:
+  - AndroidX AppCompat v1.7.0
+  - Material Design Components v1.12.0
+  - ConstraintLayout v2.2.0
+  - MPAndroidChart (for stock charts)
+
+- **Backend Services**:
+  - Firebase Authentication v23.1.0
+  - Firebase Realtime Database v21.0.0
+
+- **Testing**:
+  - JUnit 4.13.2
+  - Espresso 3.6.1
+
+### Key Features Implementation
+
+#### Stock Chart Visualization
+- Custom implementation using MPAndroidChart library
+- Real-time price updates
+- Interactive touch controls (zoom, drag)
+- Dynamic color schemes based on price movement
+- Time-based X-axis formatting
+- Gradient backgrounds for visual appeal
+
+#### User Management
+- Firebase Authentication integration
+- User profile management
+- Account balance tracking
+- Email-based authentication
+
+## Project Structure 
