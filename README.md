@@ -46,10 +46,6 @@ TradeSwift is a modern Android stock trading application that provides real-time
   - Firebase Authentication v23.1.0
   - Firebase Realtime Database v21.0.0
 
-- **Testing**:
-  - JUnit 4.13.2
-  - Espresso 3.6.1
-
 ### Key Features Implementation
 
 #### Stock Chart Visualization
